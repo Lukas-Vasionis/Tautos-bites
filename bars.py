@@ -2,7 +2,6 @@ import os
 import pickle
 import pandas as pd
 import plotly.express as px
-from pprint import pprint
 import streamlit as st
 import polars as pl
 
